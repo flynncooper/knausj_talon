@@ -14,4 +14,4 @@ mode: all
     speech.disable()
     user.engine_sleep()
 ^sleep [<phrase>]$: speech.disable()
-^wake$: speech.enable()
+^wake up$: speech.enable()
